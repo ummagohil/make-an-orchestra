@@ -8,14 +8,14 @@ Allow users print music via different instruments using an AI model.
 ### 👩‍💻Technical Details
 
 - React
-- Python
-- Libaries tbc
+- Next.js
+- Shadcn/UI
+- Zod
+- Recharts
 
-### 🔧How to Run the App
+### 👀View App
 
-```bash
-  [tbc]
-```
+[Make an Orchestra](https://make-an-orchestra.vercel.app/)
 
-### 💭Future Improvements
-Build both front-end and back-end integrations 
+### 🗒️Notes
+This is not an open source project, however if you want to contribute or have any questions please reach out to me at hello@umma.dev
