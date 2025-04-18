@@ -13,9 +13,12 @@ Allow users print music via different instruments using an AI model.
 - Zod
 - Recharts
 
+### 💻Code
+[Make an Orchestra code](https://github.com/ummagohil/make-an-orchestra-code/)
+
 ### 👀View App
 
 [Make an Orchestra](https://make-an-orchestra.vercel.app/)
 
 ### 🗒️Notes
-This is not an open source project, however if you want to contribute or have any questions please reach out to me at hello@umma.dev
+hello@umma.dev
